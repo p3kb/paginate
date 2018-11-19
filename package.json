@@ -1,0 +1,15 @@
+{
+    "name": "@p3kb/paginate",
+    "version": "1.0.1",
+    "description": "Lightweight pagination for jQuery",
+    "license": "MIT",
+    "repository": "p3kb/paginate",
+    "main": "src/paginate.min.js",
+    "keywords": [
+        "pagination",
+        "npm",
+        "package",
+        "pager",
+        "jquery"
+    ]
+}   
